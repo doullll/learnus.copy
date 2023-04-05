@@ -32,7 +32,7 @@ a:visited {
     /* align-items: center; */
 }
 
-ul.nav-login>li {
+ul.nav-login>a {
     background-color: #3076d6;
     width: 81px;
     height: 27px;
